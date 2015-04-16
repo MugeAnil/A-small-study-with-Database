@@ -1,0 +1,29 @@
+	.pos{
+	/*margin-top: 100px;
+    margin-bottom: 100px;*/
+	text-align: center;
+	
+	}
+	.title{
+	font-style: italic;
+	font-size: 30px;
+	font-family: "Times New Roman" ;
+	margin-top: 100px;
+	height: 32px;
+	padding: 20 0px 20 0;
+	display: block;
+	clear: left;
+	float: left;
+	padding-left:500px;
+	
+	}
+	.radio{
+	
+	height: 32px;
+	padding: 0 0px 0 0;
+	display: block;
+	clear: left;
+	float: left;
+	padding-left:500px;
+	
+	}
